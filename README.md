@@ -3,7 +3,7 @@
 
 ## Index
 
-1. OSI (Open Systems Interconnection model) Layer
+1. OSI (Open Systems Interconnection model) Layer(## 1. OSI (Open Systems Interconnection model) Layer)
 2. IP Address
 3. Network Hardware
 4. TCP/UDP Port Number
