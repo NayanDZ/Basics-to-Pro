@@ -9,7 +9,7 @@
 4. [TCP/UDP Port Number](## 4. Network Hardware)
 5. [Anonymous After Any Successive Hacking Activities](## 5. Anonymous After Any Successive Hacking Activities)
 6. [Awesome Links](## 6. Awesome Links)
-7. [Bug Bounty Platforms](##7.-Bug-Bounty-Platforms)
+- [Bug Bounty Platforms](##7.-Bug-Bounty-Platforms)
 
 
 ## 1. OSI (Open Systems Interconnection model) Layer
