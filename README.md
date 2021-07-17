@@ -3,13 +3,13 @@
 
 ## Index
 
-1. 1 OSI (Open Systems Interconnection model) Layer
-1. 2 IP Address
-1. 3 Network Hardware
-1. 4 TCP/UDP Port Number
-1. 5 Anonymous After Any Successive Hacking Activities
-1. 6 Awesome Links
-1. 7 Bug Bounty Platforms
+1.1 OSI (Open Systems Interconnection model) Layer
+1.2 IP Address
+1.3 Network Hardware
+1.4 TCP/UDP Port Number
+1.5 Anonymous After Any Successive Hacking Activities
+1.6 Awesome Links
+1.7 Bug Bounty Platforms
 
 
 ## 1.1 OSI (Open Systems Interconnection model) Layer
