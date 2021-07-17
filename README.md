@@ -8,6 +8,8 @@
 1. 3 Network Hardware
 1. 4 TCP/UDP Port Number
 1. 5 Anonymous After Any Successive Hacking Activities
+1. 6 Awesome Links
+1. 7 Bug Bounty Platforms
 
 
 ## 1.1 OSI (Open Systems Interconnection model) Layer
@@ -104,5 +106,34 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 
 
 ## :shipit: [What Every Browser Knows About You](https://webkay.robinlinus.com/) - Comprehensive detection page to test your own Web browser's configuration for privacy and identity leaks.
+
+## 1.5 Awesome Links
+
+- https://github.com/Hack-with-Github/Awesome-Hacking (A collection of awesome lists for hackers, pentesters & security researchers.)
+- https://github.com/sindresorhus/awesome
+- https://github.com/enaqx/awesome-pentest#penetration-testing-resources
+
+- https://github.com/swisskyrepo/PayloadsAllTheThings (Payload)
+
+- https://www.microsoft.com/en-us/wdsi/help/malware-naming (Malware Naming)
+
+## 1.6 Bug Bounty Platforms
+
+- https://www.bugcrowd.com (https://www.bugcrowd.com/bug-bounty-list/)
+- https://www.hackerone.com 
+- https://www.synack.com/
+- https://cobalt.io/
+- https://zerocopter.com/
+- https://hackenproof.com/
+- https://bountyfactory.io
+- https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
+- https://bugbounty.jp (Japan Bug bounty Program)
+
+- https://www.hackerrank.com (Programming / coding competition)
+
+- https://www.hackthebox.eu (An online platform to test and advance your skills in penetration testing and cyber security)
+- https://www.vulnhub.com (provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks)
+
+- https://ctftime.org/ctf-wtf (Capture the Flag (CTF) is a special kind of information security competitions)
 
 
