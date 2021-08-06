@@ -1,4 +1,4 @@
-# 1-Basics to Pro
+# Basics to Pro
 
 
 ## Index
