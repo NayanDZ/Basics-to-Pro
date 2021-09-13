@@ -149,6 +149,7 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - NewbieContest https://www.newbiecontest.org/
 - The Cryptopals Crypto Challenges https://cryptopals.com/
 - Penetration Testing Practice Labs http://www.amanhardikar.com/mindmaps/Practice.html
+- XSS Game: Learn Cross Site Scripting (XSS) by completing challenges! https://xss.pwnfunction.com/
 - alert(1) to win https://alf.nu/alert1
 - Hacksplaining https://www.hacksplaining.com/exercises
 - Hacker101 https://ctf.hacker101.com
