@@ -108,6 +108,7 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 ## :shipit: [What Every Browser Knows About You](https://webkay.robinlinus.com/) - Comprehensive detection page to test your own Web browser's configuration for privacy and identity leaks.
 
 ## 6. Awesome Links
+- https://portswigger.net/web-security/all-materials
 
 - https://github.com/Hack-with-Github/Awesome-Hacking (A collection of awesome lists for hackers, pentesters & security researchers.)
 - https://github.com/sindresorhus/awesome
