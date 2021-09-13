@@ -132,103 +132,40 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 
 - https://www.hackerrank.com (Programming / coding competition)
 
-***Pentest and CTF Labs to improve your hacking skills***
+#### **Pentest and CTF Labs to improve your hacking skills**
 ----------------
 - [HackTheBox](https://www.hackthebox.eu) (An online platform to test and advance your skills in penetration testing and cyber security)
 - [Vulnhub](https://www.vulnhub.com) (provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks)
-
 - https://ctftime.org/ctf-wtf (Capture the Flag (CTF) is a special kind of information security competitions)
-
-Practical Pentest Labs
-https://practicalpentestlabs.com
-
-Labs Wizard Security
-https://labs.wizard-security.net
-
-Pentestlab
-https://pentesterlab.com/
-
-Hackthis
-https://www.hackthis.co.uk
-
-Shellter
-https://shellterlabs.com/pt/
-
-Root-Me
-https://www.root-me.org/
-
-Zenk-Security
-https://www.zenk-security.com/epreuves.php
-
-W3Challs
-https://w3challs.com/
-
-NewbieContest
-https://www.newbiecontest.org/
-
-The Cryptopals Crypto Challenges
-https://cryptopals.com/
-
-Penetration Testing Practice Labs
-http://www.amanhardikar.com/mindmaps/Practice.html
-
-alert(1) to win
-https://alf.nu/alert1
-
-Hacksplaining
-https://www.hacksplaining.com/exercises
-
-Hacker101
-https://ctf.hacker101.com
-
-Academy Hackaflag
-https://academy.hackaflag.com.br/
-
-PentestIT LAB
-https://lab.pentestit.ru
-
-Hacker Security
-https://capturetheflag.com.br/
-
-PicoCTF
-https://picoctf.com
-
-Explotation Education
-https://exploit.education/
-
-Root in Jail
-http://ctf.rootinjail.com
-
-CMD Challenge
-https://cmdchallenge.com
-
-Try Hack Me
-https://tryhackme.com/
-
-Hacking-Lab
-https://www.hacking-lab.com/index.html
-
-PWNABLE
-https://pwnable.kr/play.php
-
-WHO4REYOU
-https://34.73.111.210
-
-Google CTF
-https://capturetheflag.withgoogle.com/
-
-ImmersiveLabs
-https://immersivelabs.com/
-
-Attack-Defense
-https://attackdefense.com/
-
-OverTheWire
-http://overthewire.org
-
-SANS Challenger
-https://www.holidayhackchallenge.com/
-
-SmashTheStack
-http://smashthestack.org/wargames.html
+- Practical Pentest Labs https://practicalpentestlabs.com
+- Labs Wizard Security https://labs.wizard-security.net
+- Pentestlab https://pentesterlab.com/
+- Hackthis https://www.hackthis.co.uk
+- Shellter https://shellterlabs.com/pt/
+- Root-Me https://www.root-me.org/
+- Zenk-Security https://www.zenk-security.com/epreuves.php
+- W3Challs https://w3challs.com/
+- NewbieContest https://www.newbiecontest.org/
+- The Cryptopals Crypto Challenges https://cryptopals.com/
+- Penetration Testing Practice Labs http://www.amanhardikar.com/mindmaps/Practice.html
+- alert(1) to win https://alf.nu/alert1
+- Hacksplaining https://www.hacksplaining.com/exercises
+- Hacker101 https://ctf.hacker101.com
+- Academy Hackaflag https://academy.hackaflag.com.br/
+- PentestIT LAB https://lab.pentestit.ru
+- Hacker Security https://capturetheflag.com.br/
+- PicoCTF https://picoctf.com
+- Explotation Education https://exploit.education/
+- Root in Jail http://ctf.rootinjail.com
+- CMD Challenge https://cmdchallenge.com
+- Try Hack Me https://tryhackme.com/
+- Hacking-Lab https://www.hacking-lab.com/index.html
+- PWNABLE https://pwnable.kr/play.php
+- WHO4REYOU https://34.73.111.210
+- Google CTF https://capturetheflag.withgoogle.com/
+- ImmersiveLabs https://immersivelabs.com/
+- Attack-Defense https://attackdefense.com/
+- OverTheWire http://overthewire.org
+- SANS Challenger https://www.holidayhackchallenge.com/
+- SmashTheStack http://smashthestack.org/wargames.html
 
