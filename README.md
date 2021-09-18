@@ -108,17 +108,18 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 ## :shipit: [What Every Browser Knows About You](https://webkay.robinlinus.com/) - Comprehensive detection page to test your own Web browser's configuration for privacy and identity leaks.
 
 ## 6. Awesome Links
-- https://portswigger.net/web-security/all-materials
+- Study:
+  - https://portswigger.net/web-security/all-materials
+  - https://github.com/Hack-with-Github/Awesome-Hacking (A collection of awesome lists for hackers, pentesters & security researchers.)
+  - https://github.com/sindresorhus/awesome
+  - https://github.com/enaqx/awesome-pentest#penetration-testing-resources
+  
+- Payload
+  - https://github.com/swisskyrepo/PayloadsAllTheThings 
 
-- https://github.com/Hack-with-Github/Awesome-Hacking (A collection of awesome lists for hackers, pentesters & security researchers.)
-- https://github.com/sindresorhus/awesome
-- https://github.com/enaqx/awesome-pentest#penetration-testing-resources
-
-- https://github.com/swisskyrepo/PayloadsAllTheThings (Payload)
-
-- https://www.microsoft.com/en-us/wdsi/help/malware-naming (Malware Naming)
-
-- https://github.com/iknowjason/AriaCloud  (Aria Cloud is a Docker Container ideal for remote pentesting over SSH or RDP)
+- Tool:
+  - https://github.com/iknowjason/AriaCloud  (Aria Cloud is a Docker Container ideal for remote pentesting over SSH or RDP)
+  
 ## 7. Bug Bounty Platforms
 
 - https://www.bugcrowd.com (https://www.bugcrowd.com/bug-bounty-list/)
