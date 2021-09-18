@@ -111,8 +111,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - Study:
   - https://portswigger.net/web-security/all-materials
   - https://github.com/Hack-with-Github/Awesome-Hacking (A collection of awesome lists for hackers, pentesters & security researchers.)
-  - https://github.com/sindresorhus/awesome
-  - https://github.com/enaqx/awesome-pentest#penetration-testing-resources
   
 - Payload
   - https://github.com/swisskyrepo/PayloadsAllTheThings 
