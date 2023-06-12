@@ -16,7 +16,7 @@
 ![OSI](https://github.com/NayanDZ/1-Network-Basics/blob/master/1.png)
 
 ## 2. IP Address
-[IP](https://github.com/NayanDZ/1-Network-Basics/blob/master/2.png)
+![IP](https://github.com/NayanDZ/1-Network-Basics/blob/master/2.png)
 
 ## 3. TCP / UDP Port Number
 Well Known Port | Registered Port | Dynamic and Private Port | Total Port
