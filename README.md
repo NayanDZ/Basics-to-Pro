@@ -13,7 +13,7 @@
 
 
 ## 1. OSI (Open Systems Interconnection model) Layer
-![OSI](https://github.com/NayanDZ/Basics-to-Pro/blob/master/1.png)
+![OSI](https://github.com/NayanDZ/Basics-to-Pro/blob/master/1.jpeg)
 
 ## 2. IP Address
 ![IP](https://github.com/NayanDZ/Basics-to-Pro/blob/master/2.png)
