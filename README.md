@@ -13,20 +13,20 @@
 
 
 ## 1. OSI (Open Systems Interconnection model) Layer
-![OSI](https://github.com/NayanDZ/1-Network-Basics/blob/master/1.png)
+![OSI](https://github.com/NayanDZ/Basics-to-Pro/blob/master/1.png)
 
 ## 2. IP Address
-![IP](https://github.com/NayanDZ/1-Network-Basics/blob/master/2.png)
+![IP](https://github.com/NayanDZ/Basics-to-Pro/blob/master/2.png)
 
 ## 3. TCP / UDP Port Number
 Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 ------------ | ------------- | ------------- | -------------
 0 to 1023 | 1024 to 49151 | 49152 to 65535 | **65535**
 
-![TCP/UDP](https://github.com/NayanDZ/1-Network-Basics/blob/master/3.png)
+![TCP/UDP](https://github.com/NayanDZ/Basics-to-Pro/blob/master/3.png)
 
 ## 4. Network Hardware
-![Network Hardware](https://github.com/NayanDZ/1-Network-Basics/blob/master/4.png)
+![Network Hardware](https://github.com/NayanDZ/Basics-to-Pro/blob/master/4.png)
 
 ## 5. Anonymous After Any Successive Hacking Activities
 ### Install OS which you use to hacking in VM Ware / Virtual box (Preferred Kali Linux)
