@@ -29,9 +29,8 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 ![Network Hardware](https://github.com/NayanDZ/Basics-to-Pro/blob/master/4.png)
 
 ## 5. Anonymous After Any Successive Hacking Activities
-### Install OS which you use to hacking in VM Ware / Virtual box (Preferred Kali Linux)
- -**Spoof your Mac Address**
- 
+### Install OS which you use to hacking in VM Ware / Virtual box (Preferred Kali Linux) then Spoof your Mac Address.
+
  -**Use VPN, Proxy chain...**
 -	http://cyberghostvpn.com
 - http://hotspotshield.com -- Occasionally hijacks your traffic to redirect you to Advertisers.
