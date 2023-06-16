@@ -166,5 +166,4 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - Attack-Defense https://attackdefense.com/
 - OverTheWire http://overthewire.org
 - SANS Challenger https://www.holidayhackchallenge.com/
-- SmashTheStack http://smashthestack.org/wargames.html
 
