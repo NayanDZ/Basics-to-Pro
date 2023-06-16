@@ -159,11 +159,8 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - CMD Challenge https://cmdchallenge.com
 - Try Hack Me https://tryhackme.com/
 - Hacking-Lab https://www.hacking-lab.com/index.html
-- PWNABLE https://pwnable.kr/play.php
 - WHO4REYOU https://34.73.111.210
 - Google CTF https://capturetheflag.withgoogle.com/
-- ImmersiveLabs https://immersivelabs.com/
 - Attack-Defense https://attackdefense.com/
 - OverTheWire http://overthewire.org
-- SANS Challenger https://www.holidayhackchallenge.com/
 
