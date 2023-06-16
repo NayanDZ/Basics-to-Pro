@@ -38,7 +38,7 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 -	https://anonymityonline.org
 -	http://www.bestfreevpn.com
 -	http://www.your-freedom.net
--	http://www.ultravpn.fr	•	http://www.thefreevpn.com
+-	http://www.ultravpn.fr
 -	http://www.packetix.net
 -	Tunnelbear
 -	OpenVPN
@@ -47,7 +47,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 -	USA IP
 -	Get US VPN
 -	http://www.itshidden.com
-  - Some Free VPNs -- Not recommended. (If they aren't selling you a service they are selling you.)
 
 -**Website Based Proxy Server**
 -	http://www.freeproxies.org/
