@@ -136,7 +136,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - [Vulnhub](https://www.vulnhub.com) (provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks)
 - https://ctftime.org/ctf-wtf (Capture the Flag (CTF) is a special kind of information security competitions)
 - Practical Pentest Labs https://practicalpentestlabs.com
-- Labs Wizard Security https://labs.wizard-security.net
 - Pentestlab https://pentesterlab.com/
 - Hackthis https://www.hackthis.co.uk
 - Shellter https://shellterlabs.com/pt/
