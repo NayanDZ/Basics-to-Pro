@@ -150,7 +150,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - alert(1) to win https://alf.nu/alert1
 - Hacksplaining https://www.hacksplaining.com/exercises
 - Hacker101 https://ctf.hacker101.com
-- Academy Hackaflag https://academy.hackaflag.com.br/
 - PentestIT LAB https://lab.pentestit.ru
 - Hacker Security https://capturetheflag.com.br/
 - PicoCTF https://picoctf.com
