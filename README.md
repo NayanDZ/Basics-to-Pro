@@ -149,8 +149,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - PentestIT LAB https://lab.pentestit.ru
 - Hacker Security https://capturetheflag.com.br/
 - PicoCTF https://picoctf.com
-- Explotation Education https://exploit.education/
-- Root in Jail http://ctf.rootinjail.com
 - CMD Challenge https://cmdchallenge.com
 - Try Hack Me https://tryhackme.com/
 - Hacking-Lab https://www.hacking-lab.com/index.html
