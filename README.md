@@ -44,7 +44,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 -	SecurityKiss
 -	USA IP
 -	Get US VPN
--	http://www.itshidden.com
 
 -**Website Based Proxy Server**
 -	http://www.freeproxies.org/
