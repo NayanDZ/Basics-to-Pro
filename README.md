@@ -34,7 +34,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
  -**Use VPN, Proxy chain...**
 -	http://cyberghostvpn.com
 - http://hotspotshield.com -- Occasionally hijacks your traffic to redirect you to Advertisers.
--	https://anonymityonline.org
 -	http://www.bestfreevpn.com
 -	http://www.your-freedom.net
 -	http://www.ultravpn.fr
