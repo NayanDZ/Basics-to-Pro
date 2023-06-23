@@ -45,19 +45,11 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 
 -**Website Based Proxy Server**
 -	http://www.freeproxies.org/
--	http://www.socks24.org/
--	http://www.samair.ru/proxy
--	http://www.unblockmyweb.com
 -	http://www.proxysite.com
 -	http://hidemyass.com
--	https://unblocker.us
 -	http://www.newipnow.com
 -	http://www.anonymouse.org/anonwww.html
--	http://www.hiddendigital.info
 -	http://www.kproxy.com
--	http://www.dontfilter.us
--	http://www.workingproxy.net
-
 
 -**Hide IP in Iphone**
 -	VPN Express
