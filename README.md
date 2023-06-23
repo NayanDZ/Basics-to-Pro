@@ -42,8 +42,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 -	OpenVPN
 -	VPNBook
 -	SecurityKiss
--	USA IP
--	Get US VPN
 
 -**Website Based Proxy Server**
 -	http://www.freeproxies.org/
