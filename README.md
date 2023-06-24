@@ -45,7 +45,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 
 -**Website Based Proxy Server**
 -	http://www.freeproxies.org/
--	http://www.proxysite.com
 -	http://hidemyass.com
 -	http://www.newipnow.com
 -	http://www.anonymouse.org/anonwww.html
