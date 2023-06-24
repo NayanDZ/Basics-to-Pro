@@ -46,9 +46,6 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 -**Website Based Proxy Server**
 -	http://www.freeproxies.org/
 -	http://hidemyass.com
--	http://www.newipnow.com
--	http://www.anonymouse.org/anonwww.html
--	http://www.kproxy.com
 
 -**Hide IP in Iphone**
 -	VPN Express
