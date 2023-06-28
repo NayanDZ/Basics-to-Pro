@@ -73,9 +73,7 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 -	AdBlock Plus (blocks Ads) (Subscribe to Easylist and Fanboy's List)
 -	Element Hider for Adblock Plus
 -	Ghostery (tracking pixels)
--	TACO (More adblocking)
 -	Redirect Controller
--	Refcontrol
 -	WorldIP (know your country, know your rights)
 -	Flagfox
 -	GoogleSharing (GoogleProxy, anonymizes the search) - Scroogle.org is also a very viable (and worthwhile) alternative
