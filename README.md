@@ -5,12 +5,13 @@
 
 1. [OSI (Open Systems Interconnection model) Layer](#1-osi-open-systems-interconnection-model-layer)
 2. [IP Address](#2-ip-address)
-3. [Network Hardware](#3-tcp--udp-port-number)
-4. [TCP/UDP Port Number](#4-network-hardware)
-5. [Windows Directories](#5-Windows-Directories)
-6. [Anonymous After Any Successive Hacking Activities](#5-anonymous-after-any-successive-hacking-activities)
-7. [Awesome Links](#6-awesome-links)
-8. [Bug Bounty Platforms](#7-bug-bounty-platforms)
+3. [CIDR Subnet Mask](#3-CIDR-Subnet-Mask)
+4. [Network Hardware](#3-tcp--udp-port-number)
+5. [TCP/UDP Port Number](#4-network-hardware)
+6. [Windows Directories](#5-Windows-Directories)
+7. [Anonymous After Any Successive Hacking Activities](#5-anonymous-after-any-successive-hacking-activities)
+8. [Awesome Links](#6-awesome-links)
+9. [Bug Bounty Platforms](#7-bug-bounty-platforms)
 
 
 ## 1. OSI (Open Systems Interconnection model) Layer
@@ -19,17 +20,20 @@
 ## 2. IP Address
 ![IP](https://github.com/NayanDZ/Basics-to-Pro/blob/master/2.png)
 
-## 3. TCP / UDP Port Number
+## 3. CIDR Subnet Mask
+![CIDR](https://github.com/NayanDZ/Basics-to-Pro/blob/master/CIDR.png)
+
+## 4. TCP / UDP Port Number
 Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 ------------ | ------------- | ------------- | -------------
 0 to 1023 | 1024 to 49151 | 49152 to 65535 | **65535**
 
 ![TCP/UDP](https://github.com/NayanDZ/Basics-to-Pro/blob/master/3.png)
 
-## 4. Network Hardware
+## 5. Network Hardware
 ![Network Hardware](https://github.com/NayanDZ/Basics-to-Pro/blob/master/4.png)
 
-## 5. Windows Directories
+## 6. Windows Directories
 DIRECTORY | DESCRIPTION
 ------------ | -------------
 C:\Windows\System32\drivers\etc\hosts | DNS file
@@ -48,7 +52,7 @@ C:\Windows\Prefetch | Prefetch files
 C:\Windows\AppCompat\Programs\Amcache.hve | Amcache.hve
 C:\Windows\Users\*\NTUSER.dat | NTUSER.dat
 
-## 6. Anonymous After Any Successive Hacking Activities
+## 7. Anonymous After Any Successive Hacking Activities
 ### Install OS which you use to hacking in VM Ware / Virtual box (Preferred Kali Linux) then Spoof your Mac Address.
 
  -**Use VPN, Proxy chain...**
@@ -106,7 +110,7 @@ C:\Windows\Users\*\NTUSER.dat | NTUSER.dat
 
 ## :shipit: [What Every Browser Knows About You](https://webkay.robinlinus.com/) - Comprehensive detection page to test your own Web browser's configuration for privacy and identity leaks.
 
-## 7. Awesome Links
+## 8. Awesome Links
 - Study:
   - https://portswigger.net/web-security/all-materials
   - https://github.com/Hack-with-Github/Awesome-Hacking (A collection of awesome lists for hackers, pentesters & security researchers.)
@@ -117,7 +121,7 @@ C:\Windows\Users\*\NTUSER.dat | NTUSER.dat
 - Tool:
   - https://github.com/iknowjason/AriaCloud  (Aria Cloud is a Docker Container ideal for remote pentesting over SSH or RDP)
   
-## 8. Bug Bounty Platforms
+## 9. Bug Bounty Platforms
 
 - https://www.bugcrowd.com (https://www.bugcrowd.com/bug-bounty-list/)
 - https://www.hackerone.com 
