@@ -7,9 +7,10 @@
 2. [IP Address](#2-ip-address)
 3. [Network Hardware](#3-tcp--udp-port-number)
 4. [TCP/UDP Port Number](#4-network-hardware)
-5. [Anonymous After Any Successive Hacking Activities](#5-anonymous-after-any-successive-hacking-activities)
-6. [Awesome Links](#6-awesome-links)
-7. [Bug Bounty Platforms](#7-bug-bounty-platforms)
+5. [Windows Directories](#5-Windows-Directories)
+6. [Anonymous After Any Successive Hacking Activities](#5-anonymous-after-any-successive-hacking-activities)
+7. [Awesome Links](#6-awesome-links)
+8. [Bug Bounty Platforms](#7-bug-bounty-platforms)
 
 
 ## 1. OSI (Open Systems Interconnection model) Layer
@@ -28,7 +29,26 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 ## 4. Network Hardware
 ![Network Hardware](https://github.com/NayanDZ/Basics-to-Pro/blob/master/4.png)
 
-## 5. Anonymous After Any Successive Hacking Activities
+## 5. Windows Directories
+DIRECTORY | DESCRIPTION
+------------ | -------------
+C:\Windows\System32\drivers\etc\hosts | DNS file
+C:\Windows\System32\drivers\etc\networks | Network Config file
+C:\Windows\System32\config\SAM |  Usernames and Password
+C:\Windows\System32\config\SECURITY | Security Log
+C:\Windows\System32\config\SOFTWARE | Software Log
+C:\Windows\System32\config\SYSTEM | System Log
+C:\Windows\System32\winevt\ | Event Logs
+C:\Windows\repair\SAM |  Backup of User and Password
+C:\Documents and Settings\All Users\Start Menu\Programs\Startup\ | Windows XP All User Startup
+C:\Documents and Settings\User\Start Menu\Programs\Startup | Windows XP User Startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp | Windows All Users Startup
+C:\Users\*\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup | Windows User Startup
+C:\Windows\Prefetch | Prefetch files
+C:\Windows\AppCompat\Programs\Amcache.hve | Amcache.hve
+C:\Windows\Users\*\NTUSER.dat | NTUSER.dat
+
+## 6. Anonymous After Any Successive Hacking Activities
 ### Install OS which you use to hacking in VM Ware / Virtual box (Preferred Kali Linux) then Spoof your Mac Address.
 
  -**Use VPN, Proxy chain...**
@@ -86,7 +106,7 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 
 ## :shipit: [What Every Browser Knows About You](https://webkay.robinlinus.com/) - Comprehensive detection page to test your own Web browser's configuration for privacy and identity leaks.
 
-## 6. Awesome Links
+## 7. Awesome Links
 - Study:
   - https://portswigger.net/web-security/all-materials
   - https://github.com/Hack-with-Github/Awesome-Hacking (A collection of awesome lists for hackers, pentesters & security researchers.)
@@ -97,7 +117,7 @@ Well Known Port | Registered Port | Dynamic and Private Port | Total Port
 - Tool:
   - https://github.com/iknowjason/AriaCloud  (Aria Cloud is a Docker Container ideal for remote pentesting over SSH or RDP)
   
-## 7. Bug Bounty Platforms
+## 8. Bug Bounty Platforms
 
 - https://www.bugcrowd.com (https://www.bugcrowd.com/bug-bounty-list/)
 - https://www.hackerone.com 
